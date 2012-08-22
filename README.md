@@ -12,7 +12,7 @@ Version History:
 Support & Feedback:
 --------
 
-The project's [Issues Tracker]() is the best place to let me know of any specific issues or bugs that you find. Feedback or other queries can be directed to [my site](http://jedda.me/contact-jedda/).
+The project's [Issues Tracker](https://github.com/jedda/Pushover-Pepper/issues) is the best place to let me know of any specific issues or bugs that you find. Feedback or other queries can be directed to [my site](http://jedda.me/contact-jedda/).
 
 
 License:
