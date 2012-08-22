@@ -6,7 +6,7 @@ Pushover Pepper sends a notification using [Pushover](http://pushover.net/) when
 
 Version History:
 --------
-1.0 - Initial Release
+1.0 (22nd August 2012) - Initial Release
 
 
 Support & Feedback:
