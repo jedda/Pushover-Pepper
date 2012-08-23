@@ -1,7 +1,7 @@
 Pushover Pepper
 ========
 
-Pushover Pepper sends a notification using [Pushover](http://pushover.net/) whenever specific events are recorded by [Mint](http://haveamint.com). Current options include notification on unique referrer and visitor, as well as a threshold of page views within a defined period.
+Pushover Pepper sends a notification using [Pushover](http://pushover.net/) whenever specific events are recorded by [Mint](http://haveamint.com). Current options include notification on unique referrer and visitor, as well as exceeding a threshold of page views within a defined period.
 
 
 Version History:
